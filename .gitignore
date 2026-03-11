@@ -1,0 +1,21 @@
+# Logs
+*.log
+
+# Exported files
+*.csv
+exports/
+
+# Secrets
+.env
+*.secret
+config.local.*
+local.*
+
+# Editor files
+.vscode/
+.idea/
+
+# OS junk
+Thumbs.db
+Desktop.ini
+.DS_Store
