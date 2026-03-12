@@ -50,13 +50,3 @@ $ACCOUNT_ID = "PASTE_YOUR_ACCOUNT_ID_HERE"
 ```
 
 Select the list number and the script exports the list as a CSV.
-
-## Security
-
-Do **not** commit real API tokens to GitHub.
-
-Replace with:
-
-```powershell
-$TOKEN = "PASTE_YOUR_TOKEN_HERE"
-```
